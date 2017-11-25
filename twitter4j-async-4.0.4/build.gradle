@@ -1,0 +1,2 @@
+configurations.maybeCreate("default")
+artifacts.add("default", file('twitter4j-async-4.0.4.jar'))
